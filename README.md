@@ -15,6 +15,11 @@ This project documents my Week 1 cybersecurity internship lab setup. The objecti
 - Configured a shared folder between the Windows host and Kali Linux
 - Enabled VirtualBox clipboard and drag-and-drop settings
 
+## Problem I faced
+  Problem: Kali Linux showed an active eth0 interface but no IPv4 address.
+  Solution: I reviewed the VirtualBox NAT Network and DHCP settings to troubleshoot the network configuration.
+  What I learned: How VirtualBox networking, IP addressing and DHCP work together.
+
 ## Evidence
 A screenshot of the lab setup is included in this repository as evidence of the work completed.
 
